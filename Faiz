@@ -323,7 +323,7 @@ def pilih_super():
 		print("\r\033[1;32;40m[✺] Cloning\033[1;97m"+o),;sys.stdout.flush();time.sleep(1)
 	print "\n\033[1;97m  ❈     \033[1;97mTo Stop Process Press CTRL+Z \033[1;97m    ❈"
 
-	jalan('       \033[1;97mJam start cloning Wait...')
+	jalan('       \033[1;97mShiZa start cloning Wait...')
 	print  " \033[1;36;48m●════════════════════◄ShiZa►════════════════════●" 
 
 	def main(arg):
